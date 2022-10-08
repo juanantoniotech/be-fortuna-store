@@ -26,6 +26,8 @@
 
 Nest JS provides us with TypeScript, POO, Reactive Programming, patterns, and principles to increase reliability and mantainability. That with Express (for example), we don't have it by default.
 
+- Decorators: It says what kind of behaviour one class or other element should have.
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
